@@ -4,7 +4,7 @@ InnoThyroGen is a collaborative research project dedicated to improving thyroid 
 
 By combining expertise across research, clinical applications, and technology development, we aim to bridge the gap between groundbreaking scientific discoveries and real-world healthcare needs.
 
-## Mission 
+## Mission statement 
 Our mission is to transform thyroid disease management by developing innovative, patient-centric solutions that incorporate advanced genomics and artificial intelligence. 
 
 InnoThyroGen is driven by a mission to address pressing challenges in thyroid disease diagnosis and treatment. Through our carefully designed objectives, we seek to bridge research, clinical care, and technological innovation
