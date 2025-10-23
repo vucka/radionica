@@ -11,3 +11,5 @@ Our mission is to transform thyroid disease management by developing innovative,
 InnoThyroGen is driven by a mission to address pressing challenges in thyroid disease diagnosis and treatment. Through our carefully designed objectives, we seek to bridge research, clinical care, and technological innovation
 
 At InnoThyroGen, we aim to reduce these gaps in diagnosis and care by providing tools that enable early detection, optimize treatments, and improve the quality of life for patients globally.
+
+## test andrea
